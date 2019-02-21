@@ -33,7 +33,7 @@ public class EmpresaDAOImpl implements EmpresaDAO {
 		return empresa;
 	}
 
-	public void commit() throws CommitException {
+	public void commit() throws commitException {
 		try {
 			em.getTransaction().begin();
 			em.getTransaction().commit();

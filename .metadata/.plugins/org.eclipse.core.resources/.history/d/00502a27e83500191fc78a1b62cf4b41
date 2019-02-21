@@ -4,7 +4,6 @@ import javax.persistence.EntityManager;
 
 import br.com.fiap.dao.EmpresaDAO;
 import br.com.fiap.entity.Empresa;
-import br.com.fiap.exception.CommitException;
 
 public class EmpresaDAOImpl implements EmpresaDAO {
 
@@ -33,7 +32,7 @@ public class EmpresaDAOImpl implements EmpresaDAO {
 		return empresa;
 	}
 
-	public void commit() throws CommitException {
+	public void commit() {
 		try {
 			em.getTransaction().begin();
 			em.getTransaction().commit();

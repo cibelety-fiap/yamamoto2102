@@ -1,0 +1,34 @@
+package br.com.fiap.entity;
+
+import java.util.Calendar;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+/**
+ * T_EMPRESA
+ * 		cd_empresa (NUMBER) (PK)
+ * 		*nm_fantasia (VARCHAR(50)
+ * 		dt_abertura (DATE)
+ * 		ds_status (Enum)
+ * 		nr_cnpj (VARCHAR())
+ *
+ */
+
+@Entity
+@Table(name="T_EMPRESA")
+public class Empresa {
+	
+	private int codigo;
+	
+	private String nomeFantasia;
+	
+	private Calendar dataAbertura;
+	
+	private Status status;
+	
+	private String cnpj;
+	
+	
+
+}

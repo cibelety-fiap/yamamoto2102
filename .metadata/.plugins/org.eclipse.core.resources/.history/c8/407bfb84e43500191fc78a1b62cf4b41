@@ -1,0 +1,46 @@
+package br.com.fiap.dao.impl;
+
+import javax.persistence.EntityManager;
+
+import br.com.fiap.dao.EmpresaDAO;
+import br.com.fiap.entity.Empresa;
+
+public class EmpresaDAOImpl implements EmpresaDAO {
+	
+	private EntityManager em;
+
+	public EmpresaDAOImpl(EntityManager em) {
+		super();
+		this.em = em;
+	}
+
+	public void cadastrar(Empresa empresa) {
+
+		em.persist(empresa);
+		em.getTransaction().begin();	
+		em.getTransaction().commit();
+		
+	}
+
+	public void atualizar(Empresa empresa) {
+		em.merge(empresa);
+		em.getTransaction().begin();	
+		em.getTransaction().commit();
+	}
+
+	public void excluir(int codigo) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public Empresa pesquisar(int codigo) {
+		
+		Empresa empresa = em.find(Empresa.class, 1);
+		
+		return empresa;
+	}
+
+	
+	
+	
+}

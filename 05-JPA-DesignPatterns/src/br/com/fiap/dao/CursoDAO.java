@@ -2,7 +2,7 @@ package br.com.fiap.dao;
 
 import br.com.fiap.entity.Curso;
 
-public interface CursoDao
+public interface CursoDAO
 	extends GenericDAO<Curso, Integer> {
 
 }

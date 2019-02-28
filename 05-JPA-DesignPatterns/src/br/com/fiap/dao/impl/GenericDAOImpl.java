@@ -8,7 +8,7 @@ import br.com.fiap.exception.CodigoInexistenteException;
 import br.com.fiap.exception.CommitException;
 import br.com.fiap.singleton.GenericDAO;
 
-public class GenericDAOImpl<Tabela,Chave> implements GenericDAO<Tabela,Chave> {
+public abstract class GenericDAOImpl<Tabela,Chave> implements GenericDAO<Tabela,Chave> {
 
 	private EntityManager em;
 	

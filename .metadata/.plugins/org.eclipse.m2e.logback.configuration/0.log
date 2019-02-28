@@ -654,3 +654,96 @@
 2019-02-28 11:22:56,806 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
 2019-02-28 11:22:56,806 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-02-28 11:22:56,807 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:25:20,065 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:25:20,066 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:25:20,067 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:25:20,068 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:27:25,229 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:27:25,230 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:27:25,231 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:27:25,231 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:28:15,774 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:28:15,775 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:28:15,777 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:28:15,777 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:30:24,531 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:30:24,532 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:30:24,533 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:30:24,534 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:33:37,140 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:33:37,141 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:33:37,143 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:33:37,143 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:34:00,727 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:34:00,728 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:34:00,729 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:34:00,729 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:34:15,257 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:34:15,258 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:34:15,259 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:34:15,260 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:34:24,364 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:34:24,365 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:34:24,366 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:34:24,367 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:34:43,859 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:34:43,860 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:34:43,862 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:34:43,862 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:34:50,271 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:34:50,272 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:34:50,276 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:34:50,277 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:35:00,954 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:35:00,956 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:35:00,957 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:35:00,958 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:35:14,081 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:35:14,082 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:35:14,083 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:35:14,083 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:35:23,223 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.fiap:04-JAP-DAO:0.0.1-SNAPSHOT @ D:\yamamoto2802\yamamoto2102\04-JAP-DAO\pom.xml.
+2019-02-28 11:35:24,073 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:35:24,074 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-28 11:35:24,075 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:35:24,076 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\04-JAP-DAO\src\test\resources
+2019-02-28 11:35:57,484 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:35:57,484 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:35:57,485 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:35:57,486 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:36:00,849 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:36:00,850 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:36:00,851 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:36:00,851 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:36:46,225 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:36:46,226 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:36:46,228 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:36:46,229 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:36:52,858 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:36:52,858 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:36:52,859 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:36:52,859 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:37:45,787 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:37:45,788 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:37:45,789 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:37:45,789 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:38:52,003 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:38:52,004 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:38:52,005 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:38:52,007 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:39:09,369 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:39:09,370 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:39:09,371 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:39:09,371 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:40:09,849 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:40:09,849 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:40:09,850 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:40:09,850 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:42:46,840 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:42:46,841 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:42:46,841 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:42:46,842 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-02-28 11:42:53,119 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:42:53,120 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-02-28 11:42:53,120 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-28 11:42:53,121 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yamamoto2802\yamamoto2102\05-JPA-DesignPatterns\src\test\resources

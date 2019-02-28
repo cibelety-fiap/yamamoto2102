@@ -4,9 +4,10 @@ import java.lang.reflect.ParameterizedType;
 
 import javax.persistence.EntityManager;
 
+import br.com.fiap.dao.GenericDAO;
 import br.com.fiap.exception.CodigoInexistenteException;
 import br.com.fiap.exception.CommitException;
-import br.com.fiap.singleton.GenericDAO;
+
 
 public abstract class GenericDAOImpl<Tabela,Chave> implements GenericDAO<Tabela,Chave> {
 

@@ -1,4 +1,4 @@
-package br.com.fiap.singleton;
+package br.com.fiap.dao;
 
 import br.com.fiap.exception.CodigoInexistenteException;
 import br.com.fiap.exception.CommitException;

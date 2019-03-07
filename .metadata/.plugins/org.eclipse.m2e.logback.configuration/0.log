@@ -1248,3 +1248,7 @@ java.lang.NullPointerException: null
 2019-03-07 10:15:58,510 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Yamamoto0703\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
 2019-03-07 10:15:58,511 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-03-07 10:15:58,512 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Yamamoto0703\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-03-07 10:17:47,651 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-07 10:17:47,652 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Yamamoto0703\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-03-07 10:17:47,653 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-07 10:17:47,654 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Yamamoto0703\yamamoto2102\05-JPA-DesignPatterns\src\test\resources

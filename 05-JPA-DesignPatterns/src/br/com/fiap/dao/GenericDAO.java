@@ -14,5 +14,7 @@ public interface GenericDAO<Tabela, Chave> {
 	Tabela pesquisar(Chave id) throws CodigoInexistenteException;
 	
 	void commit() throws CommitException;
+	
+	//
 
 }

@@ -1,5 +1,7 @@
 package br.com.fiap.dao;
 
-public interface ProfessorDAO extends GenericDAO {
+import br.com.fiap.entity.Professor;
+
+public interface ProfessorDAO extends GenericDAO<Professor, Integer> {
 
 }

@@ -1,6 +1,7 @@
 package br.com.fiap.teste;
 
 
+import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 import static org.junit.jupiter.api.Assertions.fail;
 
@@ -14,6 +15,7 @@ import org.junit.jupiter.api.Test;
 import br.com.fiap.dao.ProfessorDAO;
 import br.com.fiap.dao.impl.ProfessorDAOImpl;
 import br.com.fiap.entity.Professor;
+import br.com.fiap.exception.CodigoInexistenteException;
 import br.com.fiap.exception.CommitException;
 
 class ProfessorDAOTeste {
@@ -63,7 +65,12 @@ class ProfessorDAOTeste {
 			fail("Falha no teste...");
 		}
 
-		assertEquals(prof, dao.pesquisar(prof.getCodigo()));
+		try {
+			assertEquals(prof.getNome(), dao.pesquisar(prof.getCodigo()).getNome());
+		} catch (CodigoInexistenteException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
 	}
 }

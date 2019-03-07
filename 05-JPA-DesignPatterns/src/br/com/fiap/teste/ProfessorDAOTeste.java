@@ -66,5 +66,4 @@ class ProfessorDAOTeste {
 		assertEquals(prof, dao.pesquisar(prof.getCodigo()));
 		
 	}
-	
 }

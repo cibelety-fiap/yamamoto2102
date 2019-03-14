@@ -3,7 +3,6 @@ package br.com.fiap.teste;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
-import static org.junit.Assert.assertNull;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.junit.jupiter.api.Assertions.fail;
@@ -14,6 +13,7 @@ import javax.persistence.Persistence;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import br.com.fiap.dao.ProfessorDAO;
@@ -54,6 +54,7 @@ class ProfessorDAOTeste {
 	
 
 	@Test
+	@DisplayName("Teste de cadastro de professor com sucesso")
 	void cadastroTest() {
 		// Assert - valida o resultado
 		// valida se foi gerado um código pela sequence
@@ -61,6 +62,7 @@ class ProfessorDAOTeste {
 	}
 	
 	@Test
+	@DisplayName("Teste de exclusão de professor com sucesso")
 	void removerTest() throws CommitException {
 		
 		try {
@@ -76,6 +78,7 @@ class ProfessorDAOTeste {
 	}
 	
 	@Test
+	@DisplayName("Teste de pesquisa de professor com sucesso")
 	void pesquisarTest() {
 		try {
 			
@@ -93,6 +96,7 @@ class ProfessorDAOTeste {
 	
 	
 	@Test
+	@DisplayName("Teste de atualização de professor com sucesso")
 	void atualizarTest() {
 		// Arrange - instanciar os objetos
 		Professor prof = new Professor("Blabla", null, "987654321");

@@ -1529,3 +1529,16 @@ java.lang.NullPointerException: null
 2019-03-07 11:50:39,821 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Yamamoto0703\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
 2019-03-07 11:50:39,821 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-03-07 11:50:39,822 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Yamamoto0703\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-03-14 10:12:49,601 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-14 10:12:55,065 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.pom
+2019-03-14 10:12:55,187 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.pom
+2019-03-14 10:12:55,375 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.jar
+2019-03-14 10:13:06,738 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.jar
+2019-03-14 10:13:09,139 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-14 10:13:09,141 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Yamamoto0703\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-03-14 10:13:09,146 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-14 10:13:09,147 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Yamamoto0703\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
+2019-03-14 10:18:18,958 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-14 10:18:18,959 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Yamamoto0703\yamamoto2102\05-JPA-DesignPatterns\src\main\resources
+2019-03-14 10:18:18,960 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-14 10:18:18,961 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Yamamoto0703\yamamoto2102\05-JPA-DesignPatterns\src\test\resources
